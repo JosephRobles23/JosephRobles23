@@ -48,6 +48,26 @@ Self-hosted **Hermes Agent** (Nous Research) running 24/7 on an **NVIDIA Jetson 
 </details>
 
 <details>
+<summary><b>Vora.IA · AI travel agent</b></summary>
+<br>
+
+Tu agente de viajes con IA: describe tu viaje en lenguaje natural (destino, días, presupuesto) y Vora genera el itinerario completo en menos de 60 segundos — compara vuelos reales, encuentra hospedaje según tu presupuesto y organiza cada día con links directos de reserva. **1,000+ usuarios en todo el mundo.**
+
+`Stack:` Next.js · AI &nbsp;·&nbsp; [Live app](https://vora-ia.vercel.app/es) &nbsp;·&nbsp; [View on GitHub](https://github.com/JosephRobles23/Vora.IA)
+
+</details>
+
+<details>
+<summary><b>Tesorito · agentic SaaS for SMB finance</b></summary>
+<br>
+
+Plataforma SaaS agéntica para controlar flujos de caja, ERPs simplificados y salud financiera de las MYPES y PYMES de Latinoamérica.
+
+`Stack:` TypeScript · Turborepo · Supabase &nbsp;·&nbsp; [View on GitHub](https://github.com/JosephRobles23/Tesorito)
+
+</details>
+
+<details>
 <summary><b>Altoken.io · Web3 property tokenization</b></summary>
 <br>
 
@@ -109,10 +129,12 @@ Página web de la hackathon de IEEE CIS UNI 2025.
   <img src="https://www.gitskins.com/api/section/heatmap?username=josephrobles23&theme=github-dark&style=terminal&mode=dark" width="100%" alt="josephrobles23 heatmap" />
 </picture>
 
-<!-- Snake animation — generated daily by .github/workflows/snake.yml -->
+## `> ./arcade.sh --insert-coin`
+
+<!-- Pac-Man contribution graph — generated daily by .github/workflows/arcade.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosephRobles23/JosephRobles23/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/JosephRobles23/JosephRobles23/output/github-snake-light.svg" width="100%" alt="contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosephRobles23/JosephRobles23/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/JosephRobles23/JosephRobles23/output/pacman-contribution-graph.svg" width="100%" alt="pacman contribution graph" />
 </picture>
 
 ## `> ping me`
