@@ -124,11 +124,6 @@ Página web de la hackathon de IEEE CIS UNI 2025.
   <img src="https://www.gitskins.com/api/section/stats?username=josephrobles23&theme=github-dark&style=terminal&mode=dark" width="100%" alt="josephrobles23 stats" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=josephrobles23&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=josephrobles23&theme=github-dark&style=terminal&mode=dark" width="100%" alt="josephrobles23 heatmap" />
-</picture>
-
 ## `> ./arcade.sh --insert-coin`
 
 <!-- Pac-Man contribution graph — generated daily by .github/workflows/arcade.yml -->
@@ -147,5 +142,3 @@ Página web de la hackathon de IEEE CIS UNI 2025.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosephRobles23)
 
 </div>
-
-<p align="center"><sub>Joseph C. Robles · Terminal portfolio powered by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
