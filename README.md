@@ -17,8 +17,8 @@ I'm a **Telecommunications Engineering student** at the National University of E
 
 ```properties
 NAME          = Joseph C. Robles
-ROLE          = Full-Stack & AI Agents Engineer
-CURRENTLY     = Building Altoken.io — property tokenization with Web3
+ROLE          = Full-Stack & AI Engineer
+CURRENTLY     = AI Builder in Xertica AI - leading company in cloud consulting and generative AI (GenAI) solutions in Latin America
 RUNNING       = Hermes Agent (CoS) + Claude Code 24/7 on a Jetson Orin Nano Super
 LEARNING      = Spline & Three.js · AWS Cloud · LLMs with Hugging Face
 ASK_ME_ABOUT  = React | Next.js | Tailwind | Web3 | SaaS at scale
